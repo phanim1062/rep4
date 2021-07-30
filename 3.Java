@@ -1,0 +1,7 @@
+pulic static vid main ( )
+
+{
+
+
+
+}
