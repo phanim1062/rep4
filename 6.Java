@@ -1,0 +1,5 @@
+public staic main ()
+
+{
+
+}
